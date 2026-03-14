@@ -1,6 +1,6 @@
 # 👋 Bonjour et bienvenue sur mon GitHub !
 
-# 👋 Jean-Paul Dijeont — Technicien SUpport N2 & Sysadmin en devenir
+# Jean-Paul Dijeont — Technicien SUpport N2 & Sysadmin en devenir
 
 > **Technicien IT N2** chez DANONE | **TSSR & Bachelor DevOps** en cours chez Studi  
 > Frontalier 74 · Permis B · Disponible · Citoyen UE
